@@ -1,7 +1,7 @@
-# Portal: Революция
-Portal: Revolution на русском!
-Как установить?
-- Зайдите в папку с игрой.
-- Зайдите в папку "revolution".
-- Зайдите в папку "resources".
-- Скиньте "revolution_english.txt" в эту папку с заменой" и наслаждайтесь самым коротким переводом в вашей жизни :D
+# Portal: A revolução
+Portal: Revolution em português!
+Como instalar?
+ - Vá para a pasta do jogo.
+ - Vá para a pasta "revolução".
+ - Vá para a pasta "recursos".
+ - Coloque "revolution_english.txt" nesta pasta de substituição 
