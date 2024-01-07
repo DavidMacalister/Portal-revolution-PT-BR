@@ -4,4 +4,4 @@ Como instalar?
  - Vá para a pasta do jogo.
  - Vá para a pasta "revolução".
  - Vá para a pasta "recursos".
- - Coloque "revolution_english.txt" nesta pasta de substituição 
+ - Coloque "revolution_english.txt" nesta pasta e substitua o arquivo original
